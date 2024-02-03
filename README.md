@@ -11,4 +11,5 @@ It was coded using HTML, CSS and JavaScprit technologies.
 ![](screen.gif)
 
 
+
 # pokedexGuide
